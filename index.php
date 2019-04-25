@@ -1,3 +1,3 @@
 <?php 
-echo "Hello Kerrie";
+echo "Hello Kerrie. Heroku is now working.";
 
