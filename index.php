@@ -1,3 +1,3 @@
 <?php 
-echo "Thurs test. Thirsty. Thirsty. Thirsty";
+echo "Hello World";
 
